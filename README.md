@@ -22,7 +22,7 @@ Passionate about ensuring software quality, I bring a strong foundation in **man
 | Manual Testing | API Testing | Test Management | Automation (Learning) | Languages |
 |----------------|-------------|-----------------|------------------------|-----------|
 | ✅ Functional   | ✅ Postman   | ✅ Azure DevOps  | Selenium (basic)       | Java, SQL |
-| ✅ Regression   | ✅ Swagger   | ✅ Trello, Jira  | TestNG (learning)      | HTML, CSS |
+| ✅ Regression   | ✅ Swagger   | ✅ Trello, Jira  | TestNG (learning)      | JavaScript,  |
 | ✅ Exploratory  |             | ✅ TestRail      |                        |           |
 
 ---
